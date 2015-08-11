@@ -1,3 +1,5 @@
+@import url(http://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,300italic,700|PT+Sans+Narrow:400,700|Poiret+One);
+
 body {
     background: #eee;
     text-align: center;
@@ -81,4 +83,25 @@ form input[type=text] {
 
 .spinner img {
     padding: 10px;
+}
+/*Our Styles*/
+.username {
+    font-family: "Open Sans Condensed", "Helvetica", "Arial", "sans";
+    font-weight: 300;
+    color: "blue";
+}
+
+.time {
+    font-family: "Open Sans Condensed", "Helvetica", "Arial", "sans";
+    font-weight: 300;
+    font-style: italic;
+    color: #AAAAAA;
+}
+
+.text {
+    font-family: "Poiret One", "Times New Roman", "Times", "serif";
+}
+
+.roomname {
+    font-family: "Open Sans Condensed", "Helvetica", "Arial", "sans";
 }
